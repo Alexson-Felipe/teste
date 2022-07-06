@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: br.senai.sc.testes.PessoaTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s - in br.senai.sc.testes.PessoaTest
+br.senai.sc.testes.PessoaTest.testeRemoverPessoa  Time elapsed: 0.003 s
+br.senai.sc.testes.PessoaTest.testeCadastraPessoa  Time elapsed: 0.002 s

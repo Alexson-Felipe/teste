@@ -1,0 +1,5 @@
+br\senai\sc\testes\App.class
+br\senai\sc\testes\Util.class
+br\senai\sc\testes\Pessoa.class
+br\senai\sc\testes\PessoaService.class
+br\senai\sc\testes\exception\NegocioException.class

@@ -1,0 +1,249 @@
+22/06/2022 20:29:52.539 [main] INFO  br.senai.sc.testes.AppTest - Cadastrar
+22/06/2022 20:31:25.778 [main] INFO  br.senai.sc.testes.AppTest - Cadastrar
+22/06/2022 20:31:25.788 [main] INFO  br.senai.sc.testes.AppTest - Cadastrar
+22/06/2022 20:31:40.619 [main] INFO  br.senai.sc.testes.AppTest - Alterar
+22/06/2022 20:31:40.628 [main] INFO  br.senai.sc.testes.AppTest - Cadastrar
+22/06/2022 20:33:10.173 [main] INFO  br.senai.sc.testes.AppTest - Alterar
+22/06/2022 20:33:10.182 [main] INFO  br.senai.sc.testes.AppTest - Cadastrar
+22/06/2022 21:11:46.096 [main] INFO  br.senai.sc.testes.AppTest - 
+22/06/2022 21:11:46.107 [main] INFO  br.senai.sc.testes.AppTest - Alterar
+22/06/2022 21:28:09.813 [main] INFO  br.senai.sc.testes.AppTest - 
+22/06/2022 21:28:09.823 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:28:32.119 [main] INFO  br.senai.sc.testes.AppTest - 
+22/06/2022 21:28:32.129 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:31:40.136 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:31:40.139 [main] INFO  br.senai.sc.testes.AppTest - 
+22/06/2022 21:31:40.146 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:31:40.146 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:32:05.457 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:32:05.460 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:32:05.467 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:32:05.467 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:35:05.973 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+22/06/2022 21:35:05.980 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:35:05.982 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:35:05.989 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:35:05.989 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:36:32.558 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+22/06/2022 21:36:32.565 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:36:32.566 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:36:32.574 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:36:32.574 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:36:32.576 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+22/06/2022 21:41:05.941 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+22/06/2022 21:41:05.948 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:05.950 [main] INFO  br.senai.sc.testes.AppTest - Testa timeout
+22/06/2022 21:41:09.978 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:09.979 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:41:09.980 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:09.981 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:41:09.982 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+22/06/2022 21:41:18.065 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+22/06/2022 21:41:18.074 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:18.076 [main] INFO  br.senai.sc.testes.AppTest - Testa timeout
+22/06/2022 21:41:22.094 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:22.094 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:41:22.096 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:41:22.096 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:41:22.098 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+22/06/2022 21:46:17.599 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+22/06/2022 21:46:17.610 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:46:17.611 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+22/06/2022 21:46:17.617 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+22/06/2022 21:46:17.617 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+22/06/2022 21:46:17.622 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:36:38.451 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:36:38.463 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:36:38.465 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:36:38.476 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:36:38.476 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:36:38.477 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:36:38.477 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:36:38.480 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:37:08.972 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:37:08.985 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:37:08.989 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:37:09.010 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:37:09.011 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:37:09.013 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:37:09.013 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:37:09.016 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:44:07.612 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:44:07.626 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:07.628 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:44:07.635 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:07.635 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:44:07.637 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:07.637 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 19:44:07.639 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:07.639 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:44:07.640 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:44:22.963 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:44:22.975 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:22.976 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:44:22.983 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:22.984 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:44:22.985 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:22.985 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 19:44:22.989 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:22.990 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:44:22.991 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:44:50.240 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:44:50.252 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:50.254 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:44:50.260 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:50.261 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:44:50.262 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:50.262 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 19:44:50.264 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:44:50.265 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:44:50.266 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:51:27.370 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:51:27.383 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:51:27.384 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:51:27.391 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:51:27.391 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:51:27.392 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:51:27.392 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 19:51:27.395 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:51:27.395 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:51:27.396 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:51:27.397 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 19:51:27.401 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 19:55:06.908 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 19:55:06.920 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:55:06.922 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 19:55:06.929 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:55:06.929 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 19:55:06.931 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:55:06.931 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 19:55:06.933 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:55:06.933 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 19:55:06.934 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 19:55:06.934 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 19:55:06.936 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 20:12:01.452 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 20:12:01.465 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:12:01.466 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 20:12:01.475 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:12:01.475 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 20:12:01.476 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:12:01.476 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 20:12:01.478 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:12:01.479 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 20:12:01.480 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:12:01.480 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 20:12:01.481 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 20:28:23.656 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 20:28:23.680 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:28:23.682 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 20:28:23.699 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:28:23.699 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 20:28:23.701 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:28:23.702 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 20:28:23.705 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:28:23.705 [main] INFO  br.senai.sc.testes.AppTest - Testa valida��o de idade
+05/07/2022 20:28:23.707 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:28:23.708 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 20:28:23.710 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 20:47:14.373 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 20:47:14.381 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.382 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 20:47:14.396 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.396 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 20:47:14.398 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.398 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 20:47:14.400 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.400 [main] INFO  br.senai.sc.testes.AppTest - Testa cadastro pessoa
+05/07/2022 20:47:14.401 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.401 [main] INFO  br.senai.sc.testes.AppTest - Testa validação de idade
+05/07/2022 20:47:14.403 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 20:47:14.403 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 20:47:14.404 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 20:58:13.764 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:00:43.922 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 21:00:43.947 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.949 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 21:00:43.967 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.968 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 21:00:43.970 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.970 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 21:00:43.974 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.974 [main] INFO  br.senai.sc.testes.AppTest - Testa cadastro pessoa
+05/07/2022 21:00:43.977 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.977 [main] INFO  br.senai.sc.testes.AppTest - Testa valida��o de idade
+05/07/2022 21:00:43.979 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:00:43.980 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 21:00:43.982 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 21:00:43.989 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:00:58.190 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:01:27.716 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:01:48.524 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 21:01:48.549 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.550 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 21:01:48.567 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.568 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 21:01:48.571 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.571 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 21:01:48.576 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.576 [main] INFO  br.senai.sc.testes.AppTest - Testa cadastro pessoa
+05/07/2022 21:01:48.578 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.579 [main] INFO  br.senai.sc.testes.AppTest - Testa valida��o de idade
+05/07/2022 21:01:48.582 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:01:48.582 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 21:01:48.585 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 21:01:48.592 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:06:19.564 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:09:22.978 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:09:37.765 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 21:09:37.788 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.789 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 21:09:37.805 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.805 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 21:09:37.808 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.808 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 21:09:37.812 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.812 [main] INFO  br.senai.sc.testes.AppTest - Testa cadastro pessoa
+05/07/2022 21:09:37.815 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.815 [main] INFO  br.senai.sc.testes.AppTest - Testa valida��o de idade
+05/07/2022 21:09:37.817 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:09:37.818 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 21:09:37.820 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 21:09:37.828 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:18:20.579 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:19:22.744 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:19:22.753 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:20:01.077 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:20:01.088 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:20:20.434 [main] INFO  br.senai.sc.testes.AppTest - beforeAll
+05/07/2022 21:20:20.459 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.460 [main] INFO  br.senai.sc.testes.AppTest - Testa ano de nascimento
+05/07/2022 21:20:20.477 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.477 [main] INFO  br.senai.sc.testes.AppTest - Testa metodo de tamanho de String
+05/07/2022 21:20:20.480 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.480 [main] INFO  br.senai.sc.testes.AppTest - Testa tamanho do nome
+05/07/2022 21:20:20.484 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.484 [main] INFO  br.senai.sc.testes.AppTest - Testa cadastro pessoa
+05/07/2022 21:20:20.486 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.486 [main] INFO  br.senai.sc.testes.AppTest - Testa valida��o de idade
+05/07/2022 21:20:20.489 [main] INFO  br.senai.sc.testes.AppTest - beforeEach
+05/07/2022 21:20:20.490 [main] INFO  br.senai.sc.testes.AppTest - Testa email
+05/07/2022 21:20:20.493 [main] INFO  br.senai.sc.testes.AppTest - afterAll
+05/07/2022 21:20:20.501 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:20:20.506 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:22:23.751 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:22:23.764 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:23:22.693 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:23:22.705 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:24:41.095 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:24:41.106 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:25:51.186 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:25:51.197 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:27:41.009 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:27:41.018 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:30:56.713 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:30:56.723 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:31:26.627 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:31:26.637 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa
+05/07/2022 21:32:00.487 [main] INFO  br.senai.sc.testes.PessoaTest - Testa remover pessoa
+05/07/2022 21:32:00.496 [main] INFO  br.senai.sc.testes.PessoaTest - Testa cadastro pessoa

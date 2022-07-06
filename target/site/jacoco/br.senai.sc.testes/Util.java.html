@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pt"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Util.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">testes</a> &gt; <a href="index.source.html" class="el_package">br.senai.sc.testes</a> &gt; <span class="el_source">Util.java</span></div><h1>Util.java</h1><pre class="source lang-java linenums">package br.senai.sc.testes;
+import java.time.LocalDate;
+import java.util.Objects;
+
+import br.senai.sc.testes.exception.NegocioException;
+
+<span class="nc" id="L7">public class Util {</span>
+	
+	public static int getTamanhoTexto(final String texto) {
+<span class="pc bpc" id="L10" title="1 of 2 branches missed.">		return Objects.isNull(texto) ? 0 : texto.length();</span>
+	}
+	
+	public static void validaIdade(final int idade) {
+<span class="pc bpc" id="L14" title="1 of 2 branches missed.">		if (idade &gt; 30) {</span>
+<span class="fc" id="L15">			throw new NegocioException(&quot;Idade maior que 30&quot;);</span>
+		}
+<span class="nc" id="L17">	}</span>
+	
+	 public static int getAnoAniversario(LocalDate aniversario) {
+<span class="fc" id="L20">		 return aniversario.getYear();</span>
+	 }
+	
+	 public static void verificaTamanhoNomeCadatroMaior20(final String nome) {
+<span class="pc bpc" id="L24" title="2 of 4 branches missed.">		 if (Objects.nonNull(nome) &amp;&amp; nome.length() &gt; 20) {</span>
+<span class="fc" id="L25">				throw new NegocioException(&quot;Nome é maior que 20&quot;);</span>
+			}
+<span class="nc" id="L27">	 } </span>
+	 
+	 public static boolean emailValido(final String email) {
+		 
+<span class="pc bpc" id="L31" title="2 of 4 branches missed.">			if (email.contains(&quot;@&quot;) &amp;&amp; email.contains(&quot;.&quot;)) {</span>
+<span class="fc" id="L32">					return true;</span>
+			}
+		 
+<span class="nc" id="L35">		 return false;</span>
+	 }
+	 
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>

@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.senai.sc.testes.AppTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.238 s - in br.senai.sc.testes.AppTest
+br.senai.sc.testes.AppTest.anoAniversario  Time elapsed: 0.031 s
+br.senai.sc.testes.AppTest skipped
+br.senai.sc.testes.AppTest.testaMetodoTamanhoString  Time elapsed: 0.002 s
+br.senai.sc.testes.AppTest.testarTamanhoDoNome  Time elapsed: 0.003 s
+br.senai.sc.testes.AppTest.testeCadastraPessoa  Time elapsed: 0.002 s
+br.senai.sc.testes.AppTest.testarIdade  Time elapsed: 0.002 s
+br.senai.sc.testes.AppTest.testarValidacaoDeEmail  Time elapsed: 0.002 s
